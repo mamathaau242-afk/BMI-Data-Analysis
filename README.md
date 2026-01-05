@@ -11,7 +11,7 @@ The project explores correlations between BMI, age, gender, and lifestyle factor
   BMI = \frac{\text{Weight (kg)}}{\text{Height (m)}^2}
 ]
 -**Pivot Tables**: Summarized insights on BMI categories (Underweight, Normal, Overweight, Obese) across age groups and genders.
--Key Performance Indicators (KPIs): Highlighting average BMI, % overweight, % obese, and outlier detection.
+-**Key Performance Indicators (KPIs)**: Highlighting average BMI, % overweight, % obese, and outlier detection.
 
 **Key Observations**
 
